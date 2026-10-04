@@ -6,13 +6,13 @@
 
 | № | Тема | Отчет |
 |---|------|-------|
-| 0 | Apache Cassandra — основы NoSQL | [PDF](./reports/PR0_Cassandra_NoSQL.pdf) |
-| 1 | Развертывание кластера ADCM + ADPG | [PDF](./reports/PR1_ADCM_ADPG_Cluster.pdf) |
-| 2 | Аналитическая модель данных (схема «звезда») | [PDF](./reports/PR2_Analytical_Model_PostgreSQL.pdf) |
-| 3 | Развертывание Hadoop-кластера (HDFS, YARN) | [PDF](./reports/PR3_Hadoop_Cluster.pdf) |
-| 4 | PySpark ETL-пайплайн | [PDF](./reports/PR4_PySpark_ETL.pdf) |
-| 5 | Оркестрация ETL в Apache Airflow | [PDF](./reports/PR5_Airflow_Orchestration.pdf) |
-| 6 | BI-визуализация в Apache Superset | [PDF](./reports/PR6_Superset_BI.pdf) |
+| 0 | Apache Cassandra — основы NoSQL | [САБД_ПР0_Илюхин_КН.pdf](./reports/САБД_ПР0_Илюхин_КН.pdf) |
+| 1 | Развертывание кластера ADCM + ADPG | [САБД_ПР1_Илюхин_КН.pdf](./reports/САБД_ПР1_Илюхин_КН.pdf) |
+| 2 | Аналитическая модель данных (схема «звезда») | [САБД_ПР2_Илюхин_КН.pdf](./reports/САБД_ПР2_Илюхин_КН.pdf) |
+| 3 | Развертывание Hadoop-кластера (HDFS, YARN) | [САБД_ПР3_Илюхин_КН.pdf](./reports/САБД_ПР3_Илюхин_КН.pdf) |
+| 4 | PySpark ETL-пайплайн | [САБД_ПР4_Илюхин_КН.pdf](./reports/САБД_ПР4_Илюхин_КН.pdf) |
+| 5 | Оркестрация ETL в Apache Airflow | [САБД_ПР5_Илюхин_КН.pdf](./reports/САБД_ПР5_Илюхин_КН.pdf) |
+| 6 | BI-визуализация в Apache Superset | [САБД_ПР6_Илюхин_КН.pdf](./reports/САБД_ПР6_Илюхин_КН.pdf) |
 
 ## Стек
 
